@@ -8,7 +8,7 @@ const config = {
   bio: "Crypto investor • NFT holder • Exploring the future of digital assets.", // Change bio here
 
   socialLinks: [
-    { label: "Instagram", href: "https://www.instagram.com/sasha_siziy_07" },
+    { label: "Instagram", href: "https://www.instagram.com/_siziy_" },
     { label: "Faceit", href: "https://www.faceit.com/ru/players/SIIZIIY" },
       { label: "Steam", href: "https://steamcommunity.com/profiles/76561199008353696" },
       { label: "Opensea", href: "https://opensea.io/item/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/47341196895934426243559072326049072716379440540173890009412674487300325900289" }
@@ -106,4 +106,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Generate stars on resize
 window.addEventListener('resize', generateStars);
+
 
